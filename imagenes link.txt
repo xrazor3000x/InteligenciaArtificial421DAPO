@@ -1,1 +1,3 @@
 https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+https://drive.google.com/file/d/1Fq0qztgkp5gvFKRTJ5bnXHY9a80FKYce/view?usp=drive_link
+https://drive.google.com/file/d/1j09ZIHtibxz2XWAnNNVSvAnstPzkpp1g/view?usp=drive_link
